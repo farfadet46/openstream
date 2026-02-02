@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OpenStream - Plateforme Open Source</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav class="navbar">
+            <div class="nav-container">
+                <div class="nav-logo">
+                    <a href="." class="logo-link">
+                    <img src="logo.png" alt="OpenStream Logo" class="logo">
+                    <div class="logo-text">
+                        <h1>OpenStream</h1>
+                        <span class="tagline">100% Open Source</span>
+                    </div>
+                    </a>
+                </div>
+                <ul class="nav-menu">
+                    <li><a href="#" data-filter="all" class="active">Tous</a></li>
+                    <li><a href="#" data-filter="movie">Films</a></li>
+                   <!-- <li><a href="#" data-filter="series">Séries</a></li>-->
+                    <li><a href="#" data-filter="documentary">Documentaires</a></li>
+                    <li><a href="#" data-filter="Annime">Annimé</a></li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+
+    <main>
+        <section class="hero">
+            <h2>Découvrez le meilleur du cinéma</h2>
+            <p>50+ Films en libre accès</p>
+        </section>
+
+        <section class="search-section">
+            <div class="search-container">
+                <input type="text" id="searchInput" placeholder="Rechercher par titre, acteur, réalisateur...">
+                <button id="searchBtn">Rechercher</button>
+            </div>
+            
+            <div class="filters">
+                <select id="yearFilter">
+                    <option value="">Toutes les années</option>
+                </select>
+                
+                <select id="genreFilter">
+                    <option value="">Tous les genres</option>
+                </select>
+                
+                <select id="ratingFilter">
+                    <option value="">Toutes les notes</option>
+                    <option value="9">9+</option>
+                    <option value="8">8+</option>
+                    <option value="7">7+</option>
+                    <option value="6">6+</option>
+                </select>
+            </div>
+        </section>
+
+        <section class="content-grid" id="contentGrid">
+            <!-- Le contenu sera généré dynamiquement ici -->
+        </section>
+    </main>
+   
+    <!-- Modal du lecteur vidéo -->
+    <div id="videoModal" class="modal">
+        <div class="modal-overlay"></div>
+        <div class="modal-content">
+            <button class="modal-close">&times;</button>
+            <div class="video-container">
+                <video id="videoPlayer" controls>
+                    <source src="" type="video/mp4">
+                    Votre navigateur ne supporte pas la lecture vidéo.
+                </video>
+            </div>
+            <div class="video-info">
+                <h3 id="modalTitle"></h3>
+                <p id="modalDescription"></p>
+                <div class="video-meta">
+                    <span id="modalYear"></span>
+                    <span id="modalRating"></span>
+                   <!-- <span id="modalLicense"></span>-->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <p>&copy; 2026 OpenStream - Aucun droits réservés sous CC0</p>
+        <p>Pour nous contacter une seule adresse : alt.vu-cbgge64@contact.biz.st
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>
