@@ -1094,6 +1094,36 @@
       "thumbnail": "https://image.tmdb.org/t/p/w400/2mxS4wUimwlLmI1xp6QW6NSU361.jpg",
       "trailer": "https://vidzy.org/embed-3hgo1r71w4pw.html",
       "license": ""
+    },
+    {
+      "id": 72,
+      "title": "Nobody",
+      "type": "movie",
+      "year": 2021,
+      "director": "Ilya Naishuller",
+      "actors": ["Bob Odenkirk", "Aleksey Serebryakov", "Connie Nielsen", "Christopher Lloyd", "Michael Ironside", "Colin Salmon", "RZA", "Billy MacLellan"],
+      "genre": ["Thriller", "Comedy", "Crime", "Action"],
+      "duration": 92,
+      "rating": 9.6,
+      "description": "Hutch Mansell, un père et un mari frustré, totalement déconsidéré par sa famille, se contente d’encaisser les coups, sans jamais les rendre. Il n’est rien. Une nuit, alors que deux cambrioleurs pénètrent chez lui, il fait le choix de ne pas intervenir, plutôt que de risquer une escalade sanglante. Une décision qui le discrédite définitivement aux yeux de son fils Blake, et qui semble l’éloigner encore plus de sa femme Becca. Cet incident réveille chez cet homme blessé des instincts larvés qui vont le propulser sur une voie violente, révélant des zones d’ombres et des compétences létales insoupçonnées. Dans une avalanche de coups de poings, de fusillades et de crissements de pneus, il va tout faire pour tirer sa famille des griffes d’un redoutable ennemi et s’assurer que, plus jamais, personne ne le prenne pour un moins que rien.",
+      "thumbnail": "https://image.tmdb.org/t/p/w400/oBgWY00bEFeZ9N25wWVyuQddbAo.jpg",
+      "trailer": "https://vidzy.org/embed-nesqwbdro8kt.html",
+      "license": ""
+    },
+    {
+      "id": 73,
+      "title": "Nobody 2",
+      "type": "movie",
+      "year": 2025,
+      "director": "Timo Tjahjanto",
+      "actors": ["Bob Odenkirk", "Connie Nielsen", "Christopher Lloyd", "John Ortiz", "RZA", "Sharon Stone", "Colin Hanks", "Gage Munroe"],
+      "genre": ["Crime", "Comedy", "Thriller", "Action"],
+      "duration": 89,
+      "rating": 8.5,
+      "description": "Après avoir décidé d'emmener sa famille dans une ville touristique pour s'amuser au soleil, une rencontre sans gravité avec des brutes locales précipite la famille dans la ligne de mire d'un chef du crime dérangé et assoiffé de sang, déterminé à perturber sa détente.",
+      "thumbnail": "https://image.tmdb.org/t/p/w300/svXVRoRSu6zzFtCzkRsjZS7Lqpd.jpg",
+      "trailer": "https://vidzy.org/embed-1ztq012omhch.html",
+      "license": ""
     }
   ],
   "genres": ["Thriller", "Adventure", "Horror", "History", "Drama", "Sci-Fi", "Education", "Action", "Comedy", "Romance", "Family", "Animation", "Western", "Crime", "Fantasy", "Docu"],
