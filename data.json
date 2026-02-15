@@ -1124,6 +1124,21 @@
       "thumbnail": "https://image.tmdb.org/t/p/w300/svXVRoRSu6zzFtCzkRsjZS7Lqpd.jpg",
       "trailer": "https://vidzy.org/embed-1ztq012omhch.html",
       "license": ""
+    },
+    {
+      "id": 74,
+      "title": "Roofman",
+      "type": "movie",
+      "year": 2025,
+      "director": "Derek Cianfrance",
+      "actors": ["Channing Tatum", "Kirsten Dunst", "Ben Mendelsohn", "LaKeith Stanfield", "Juno Temple", "Peter Dinklage", "Uzo Aduba", "Lily Collias"],
+      "genre": ["Crime", "Comedy", "Drama"],
+      "duration": 126,
+      "rating": 9,
+      "description": "L'histoire vraie de Jeffrey Manchester, le voleur de McDonald's qui a vécu dans un Toys 'R Us pendant six mois.",
+      "thumbnail": "https://image.tmdb.org/t/p/w300/z39nOIqLt0kTBdTgp3iFlQF0mQ2.jpg",
+      "trailer": "https://vidzy.org/embed-xtnbzevty9u3.html",
+      "license": ""
     }
   ],
   "genres": ["Thriller", "Adventure", "Horror", "History", "Drama", "Sci-Fi", "Education", "Action", "Comedy", "Romance", "Family", "Animation", "Western", "Crime", "Fantasy", "Docu"],
