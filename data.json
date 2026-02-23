@@ -1139,6 +1139,21 @@
       "thumbnail": "https://image.tmdb.org/t/p/w300/z39nOIqLt0kTBdTgp3iFlQF0mQ2.jpg",
       "trailer": "https://vidzy.org/embed-xtnbzevty9u3.html",
       "license": ""
+    },
+    {
+      "id": 75,
+      "title": " Kingsman : Services secrets",
+      "type": "movie",
+      "year": 2015,
+      "director": "Matthew Vaughn",
+      "actors": ["Taron Egerton", "Colin Firth", "Samuel L. Jackson", "Mark Strong", "Sophie Cookson", "Sofia Boutella", "Michael Caine", "Hanna Alström"],
+      "genre": ["Crime", "Comedy", "Action", "Adventure"],
+      "duration": 1296,
+      "rating": 9.6,
+      "description": "Kingsman, l’élite du renseignement britannique en costumes 3 pièces, est à la recherche de sang neuf. Pour recruter leur nouvel agent secret, elle doit faire subir un entrainement de haut vol à de jeunes privilégiés aspirant au job rêvé. L’un d’eux semble être le candidat « imparfaitement idéal » : un jeune homme impertinent de la banlieue londonienne nommé Eggsy. Ces super-espions parviendront-ils à contrer la terrible menace que fait peser sur le monde l’esprit torturé du criminel Richmond Valentine, génie de la technologie ?",
+      "thumbnail": "https://image.tmdb.org/t/p/w400/ay7xwXn1G9fzX9TUBlkGA584rGi.jpg",
+      "trailer": "https://vidzy.org/embed-6c3qjxxi6iqk.html",
+      "license": ""
     }
   ],
   "genres": ["Thriller", "Adventure", "Horror", "History", "Drama", "Sci-Fi", "Education", "Action", "Comedy", "Romance", "Family", "Animation", "Western", "Crime", "Fantasy", "Docu"],
